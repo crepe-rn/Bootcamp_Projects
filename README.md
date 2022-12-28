@@ -1,6 +1,6 @@
 # Bootcamp Projects
 
-Data Science Bootcamp conducted by 'AdToy'
+Data Science Bootcamp conducted by 'DataRockie'
 
 A 4-month programme consists of 10 sprints:
 
